@@ -92,7 +92,6 @@ customer-churn-analysis/
 I used Claude, an AI assistant from Anthropic, to help write the Python code. I chose the project, worked through each step, checked the results and wrote up the findings and recommendations myself.
 
 ## About me
-I am Ketan Mehra aspiring product manager
+I am Ketan Mehra aspiring product manager .
+Linkdin:- https://www.linkedin.com/in/ketan-mehra-22b159312?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-[Your Name], aspiring data analyst and product manager
-[LinkedIn link] · [GitHub link]
